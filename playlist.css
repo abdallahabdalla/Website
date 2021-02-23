@@ -1,0 +1,10 @@
+body { 
+    background: rgb(76, 76, 78) !important; }
+
+#album  {
+    position:absolute;
+    top: 205px;
+    left: 105px;
+    z-index: 2;  
+    
+  }
